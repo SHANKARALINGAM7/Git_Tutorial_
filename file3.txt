@@ -1,11 +1,8 @@
 hiii   hiii 
-<<<<<<< HEAD
 i am batman 
 naveen epdi iruka da saaptya
-=======
 i am shankar 
 kavin hii  epdi iruka da saaptya
->>>>>>> 9416a333cb40cab7268054e8e941d62ec11c61f2
 harsha ena da panraa
 
 
